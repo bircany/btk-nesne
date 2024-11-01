@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\birca\\source\\repos\\bookstoreapp\\bookstoreapp\\bookstorediagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|",
+      "RelativeMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\bookstorediagram.cd||{59B0B277-7DDF-4E36-A3ED-02DAC5B9E2FA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\birca\\source\\repos\\bookstoreapp\\bookstoreapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\birca\\source\\repos\\bookstoreapp\\bookstoreapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\birca\\source\\repos\\bookstoreapp\\bookstoreapp\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\bookauthor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\birca\\source\\repos\\bookstoreapp\\bookstoreapp\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|c:\\users\\birca\\source\\repos\\bookstoreapp\\bookstoreapp\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D16BA74B-9718-47C2-A125-7D509D48AD2F}|BookStoreApp\\BookStoreApp.csproj|solutionrelative:bookstoreapp\\bookdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\Author.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Author.cs",
+              "ToolTip": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\Author.cs",
+              "RelativeToolTip": "BookStoreApp\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:13:47.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookAuthor.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\BookAuthor.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\BookAuthor.cs",
+              "ToolTip": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\BookAuthor.cs",
+              "RelativeToolTip": "BookStoreApp\\BookAuthor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:12:41.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDetail.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\BookDetail.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\BookDetail.cs",
+              "ToolTip": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\BookDetail.cs",
+              "RelativeToolTip": "BookStoreApp\\BookDetail.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:12:07.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\Category.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Category.cs",
+              "ToolTip": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\Category.cs",
+              "RelativeToolTip": "BookStoreApp\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:11:32.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookStoreDiagram.cd",
+              "DocumentMoniker": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\BookStoreDiagram.cd",
+              "RelativeDocumentMoniker": "BookStoreApp\\BookStoreDiagram.cd",
+              "ToolTip": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\BookStoreDiagram.cd",
+              "RelativeToolTip": "BookStoreApp\\BookStoreDiagram.cd",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2024-10-22T17:10:52.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\Book.cs",
+              "RelativeDocumentMoniker": "BookStoreApp\\Book.cs",
+              "ToolTip": "C:\\Users\\birca\\source\\repos\\BookStoreApp\\BookStoreApp\\Book.cs",
+              "RelativeToolTip": "BookStoreApp\\Book.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T17:08:34.095Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+@startuml Inheritance
+title Vehicle
+class Vehicle{
+    #manufacturer : String
+    #year : int
+    #color : String
+    ---------
+    getManufacturer()
+    getYear()
+    getColor()
+    ---------
+    setManufacturer()
+    setYear()
+    setColor()
+    ---------
+    Vehicle()
+    Vehicle(manufactuer,year,color)
+    ---------
+    +start()
+    +stop()
+    +drive()
+    +openSunroof()
+    +toString()
+
+}
+
+class Car {
+    +openSunroof()
+}
+class Truck{
+    +transport()
+}
+class Bus{
+    +scheduling()
+}
+class SchoolBus{
+    +getFare()
+}
+Bus -u-|> Vehicle : <<extends>>
+Truck -u-|> Vehicle : <<extends>>
+Car -u-|> Vehicle : <<extends>>
+SchoolBus -u-|> Bus : <<extends>>
+
+hide empty members
+@enduml
